@@ -1,0 +1,12 @@
+{
+  "format": "spectral-force-translation-v1",
+  "strings": [
+    {
+      "id": "exe_000800",
+      "offset": "0x800",
+      "maxBytes": 56,
+      "original": "許す事も時には必要かと．．#n完全な者などいないのですから",
+      "translation": "Forgiveness matters.#nNobody is perfect."
+    }
+  ]
+}

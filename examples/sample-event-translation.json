@@ -1,0 +1,14 @@
+{
+  "format": "spectral-force-translation-v1",
+  "groups": [
+    {
+      "id": "text_00000",
+      "original": "なんだ．．",
+      "translation": "What...?",
+      "occurrences": [
+        { "offset": "0x11a", "maxBytes": 10 },
+        { "offset": "0x91a", "maxBytes": 10 }
+      ]
+    }
+  ]
+}

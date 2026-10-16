@@ -1,0 +1,131 @@
+{
+  "format": "spectral-force-translation-v1",
+  "strings": [
+    {
+      "id": "exe_01dfb0",
+      "offset": "0x1dfb0",
+      "maxBytes": 10,
+      "original": "愛しき邪悪",
+      "translation": ""
+    },
+    {
+      "id": "exe_01e444",
+      "offset": "0x1e444",
+      "maxBytes": 96,
+      "original": "２周目以降のときはメモリーカードを#nメモリーカード差込口１に差し込み、#n○ボタンを押してください",
+      "translation": "ＭＥＭＯＲＹ　ＣＡＲＤ#nＰＲＥＳＳ　○　ＴＯ　ＳＴＡＲＴ"
+    },
+    {
+      "id": "exe_01e4a8",
+      "offset": "0x1e4a8",
+      "maxBytes": 64,
+      "original": "どの国ではじめますか？#n#n#1（方向キー上下で選択　○ボタン決定）",
+      "translation": "ＣＨＯＯＳＥ　Ａ　ＣＯＵＮＴＲＹ#n○：ＯＫ"
+    },
+    {
+      "id": "exe_01e4fc",
+      "offset": "0x1e4fc",
+      "maxBytes": 34,
+      "original": "#0ではじめます。#nよろしいですか？",
+      "translation": "#0#n○：ＹＥＳ"
+    },
+    {
+      "id": "exe_01e520",
+      "offset": "0x1e520",
+      "maxBytes": 12,
+      "original": "はい#nいいえ",
+      "translation": "ＹＥＳ#nＮＯ"
+    },
+    {
+      "id": "exe_01e530",
+      "offset": "0x1e530",
+      "maxBytes": 30,
+      "original": "#1この国は、まだ選択できません",
+      "translation": "#1ＬＯＣＫＥＤ"
+    },
+    {
+      "id": "exe_01e550",
+      "offset": "0x1e550",
+      "maxBytes": 10,
+      "original": "#1君主　#3",
+      "translation": ""
+    },
+    {
+      "id": "exe_01e55c",
+      "offset": "0x1e55c",
+      "maxBytes": 30,
+      "original": "#1#n総国力#n#2総兵数#n#3武将数",
+      "translation": ""
+    },
+    {
+      "id": "exe_01e57c",
+      "offset": "0x1e57c",
+      "maxBytes": 36,
+      "original": "#1スペクトラル　フォース　オプション",
+      "translation": ""
+    },
+    {
+      "id": "exe_01e5a4",
+      "offset": "0x1e5a4",
+      "maxBytes": 48,
+      "original": "#3アナログコントローラ（ＤＵＡＬ　ＳＨＯＣＫ）#n",
+      "translation": ""
+    },
+    {
+      "id": "exe_01e5d8",
+      "offset": "0x1e5d8",
+      "maxBytes": 18,
+      "original": "サウンド・テスト#n",
+      "translation": ""
+    },
+    {
+      "id": "exe_01e5ec",
+      "offset": "0x1e5ec",
+      "maxBytes": 24,
+      "original": "ＭＯＶＩＥ　ライブラリ#n",
+      "translation": ""
+    },
+    {
+      "id": "exe_01e608",
+      "offset": "0x1e608",
+      "maxBytes": 14,
+      "original": "タイトルに戻る",
+      "translation": ""
+    },
+    {
+      "id": "exe_01e618",
+      "offset": "0x1e618",
+      "maxBytes": 24,
+      "original": "振動　ＯＮ#n振動　ＯＦＦ",
+      "translation": ""
+    },
+    {
+      "id": "exe_01e634",
+      "offset": "0x1e634",
+      "maxBytes": 74,
+      "original": "方向キー上下で選択、○ボタンでプレイ　#n△ボタンでストップ#nＸボタンで戻る",
+      "translation": ""
+    },
+    {
+      "id": "exe_01e680",
+      "offset": "0x1e680",
+      "maxBytes": 80,
+      "original": "方向キー上下で選択、○ボタンでプレイ#n×ボタンで戻る#nプレイ中×ボタンでストップ",
+      "translation": ""
+    },
+    {
+      "id": "exe_01e6d4",
+      "offset": "0x1e6d4",
+      "maxBytes": 22,
+      "original": "#1サウンド・モード#3#n",
+      "translation": ""
+    },
+    {
+      "id": "exe_01e6ec",
+      "offset": "0x1e6ec",
+      "maxBytes": 34,
+      "original": "#1ＭＯＶＩＥ　ライブラリ　達成度　",
+      "translation": ""
+    }
+  ]
+}

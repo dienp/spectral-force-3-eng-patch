@@ -1,0 +1,14 @@
+# Extracted game files, builds and anything derived from the disc
+work/
+*.bin
+*.cue
+*.iso
+*.chd
+*.img
+*.bps
+*.zip
+*.sav
+*.mcd
+
+# Windows "nul" redirect artifact
+nul
